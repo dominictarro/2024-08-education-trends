@@ -1,0 +1,348 @@
+{
+  "columnHeadingsList": [
+    {
+      "col": 1,
+      "colSpan": 1,
+      "headingText": "",
+      "row": 1,
+      "rowSpan": 1,
+      "isFocal": true
+    },
+    {
+      "col": 2,
+      "colSpan": 1,
+      "headingText": "",
+      "row": 1,
+      "rowSpan": 1,
+      "isFocal": true
+    },
+    {
+      "col": 3,
+      "colSpan": 4,
+      "headingText": "All graduates",
+      "row": 1,
+      "rowSpan": 1,
+      "isFocal": false
+    },
+    {
+      "col": 7,
+      "colSpan": 4,
+      "headingText": "Missing",
+      "row": 1,
+      "rowSpan": 1,
+      "isFocal": false
+    },
+    {
+      "col": 1,
+      "colSpan": 1,
+      "headingText": "Year",
+      "row": 2,
+      "rowSpan": 1,
+      "isFocal": false,
+      "fieldRef": "colRef1"
+    },
+    {
+      "col": 2,
+      "colSpan": 1,
+      "headingText": "Jurisdiction",
+      "row": 2,
+      "rowSpan": 1,
+      "isFocal": false,
+      "fieldRef": "colRef2"
+    },
+    {
+      "col": 3,
+      "colSpan": 1,
+      "headingText": "Average",
+      "row": 2,
+      "rowSpan": 1,
+      "isFocal": false,
+      "fieldRef": "colRef3"
+    },
+    {
+      "col": 4,
+      "colSpan": 1,
+      "headingText": "Standard Error",
+      "row": 2,
+      "rowSpan": 1,
+      "isFocal": false,
+      "fieldRef": "colRef4"
+    },
+    {
+      "col": 5,
+      "colSpan": 1,
+      "headingText": "Percentage",
+      "row": 2,
+      "rowSpan": 1,
+      "isFocal": false,
+      "fieldRef": "colRef5"
+    },
+    {
+      "col": 6,
+      "colSpan": 1,
+      "headingText": "Standard Error",
+      "row": 2,
+      "rowSpan": 1,
+      "isFocal": false,
+      "fieldRef": "colRef6"
+    },
+    {
+      "col": 7,
+      "colSpan": 1,
+      "headingText": "Average",
+      "row": 2,
+      "rowSpan": 1,
+      "isFocal": false,
+      "fieldRef": "colRef7"
+    },
+    {
+      "col": 8,
+      "colSpan": 1,
+      "headingText": "Standard Error",
+      "row": 2,
+      "rowSpan": 1,
+      "isFocal": false,
+      "fieldRef": "colRef8"
+    },
+    {
+      "col": 9,
+      "colSpan": 1,
+      "headingText": "Percentage",
+      "row": 2,
+      "rowSpan": 1,
+      "isFocal": false,
+      "fieldRef": "colRef9"
+    },
+    {
+      "col": 10,
+      "colSpan": 1,
+      "headingText": "Standard Error",
+      "row": 2,
+      "rowSpan": 1,
+      "isFocal": false,
+      "fieldRef": "colRef10"
+    }
+  ],
+  "tabularDataList": [
+    [
+      {
+        "fieldRef": "colRef1",
+        "value": "2019",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef2",
+        "value": "National",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef3",
+        "value": "20.58",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef4",
+        "value": "(0.294)",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef5",
+        "value": "100",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef6",
+        "value": "\u2020",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef7",
+        "value": "\u2021",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef8",
+        "value": "\u2020",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef9",
+        "value": "#",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef10",
+        "value": "\u2020",
+        "isFocal": false
+      }
+    ],
+    [
+      {
+        "fieldRef": "colRef1",
+        "value": "2009",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef2",
+        "value": "National",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef3",
+        "value": "21.35",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef4",
+        "value": "(0.169)",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef5",
+        "value": "100",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef6",
+        "value": "\u2020",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef7",
+        "value": "\u2021",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef8",
+        "value": "\u2020",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef9",
+        "value": "#",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef10",
+        "value": "\u2020",
+        "isFocal": false
+      }
+    ],
+    [
+      {
+        "fieldRef": "colRef1",
+        "value": "2000",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef2",
+        "value": "National",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef3",
+        "value": "21.66",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef4",
+        "value": "(0.209)",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef5",
+        "value": "100",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef6",
+        "value": "\u2020",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef7",
+        "value": "\u2021",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef8",
+        "value": "\u2020",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef9",
+        "value": "#",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef10",
+        "value": "\u2020",
+        "isFocal": false
+      }
+    ],
+    [
+      {
+        "fieldRef": "colRef1",
+        "value": "1990",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef2",
+        "value": "National",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef3",
+        "value": "19.91",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef4",
+        "value": "(0.225)",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef5",
+        "value": "100",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef6",
+        "value": "\u2020",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef7",
+        "value": "\u2021",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef8",
+        "value": "\u2020",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef9",
+        "value": "#",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef10",
+        "value": "\u2020",
+        "isFocal": false
+      }
+    ]
+  ],
+  "footnotes": {
+    "1": "\u2020 Not applicable.",
+    "2": "# Rounds to zero.",
+    "3": "\u2021 Reporting standards not met.",
+    "4": "NOTE: Some apparent differences between estimates may not be statistically significant.",
+    "5": "SOURCE: U.S. Department of Education, Institute of Education Sciences, National Center for Education Statistics, National Assessment of Educational Progress (NAEP), 1990, 2000, 2009, and 2019 High School Transcript Study (HSTS)."
+  },
+  "title": [
+    "Averages and percentages for grade 12 act composite score, by All graduates [TOTAL] and jurisdiction: 2019, 2009, 2000, and 1990"
+  ],
+  "hasData": true,
+  "dataSource": "NDECACHINGSERVICE_MEM"
+}

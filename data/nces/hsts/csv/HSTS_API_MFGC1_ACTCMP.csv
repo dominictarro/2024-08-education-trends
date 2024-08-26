@@ -1,0 +1,13 @@
+Year,Jurisdiction,Earned at least 1 credit in manufacturing courses? (SCED),Average,Standard Error (Average),Percentage,Standard Error (Percentage)
+2019,National,No,20.7,0.296,96.0,0.5
+2009,National,No,21.47,0.169,96.0,0.7
+2000,National,No,21.82,0.203,93.0,1.3
+1990,National,No,19.99,0.213,94.0,1.2
+2019,National,Yes,17.84,0.455,4.0,0.5
+2009,National,Yes,18.77,0.283,4.0,0.7
+2000,National,Yes,19.52,0.455,7.0,1.3
+1990,National,Yes,18.6,0.835,6.0,1.2
+2019,National,Missing,,,,
+2009,National,Missing,,,,
+2000,National,Missing,,,,
+1990,National,Missing,,,,

@@ -1,0 +1,472 @@
+{
+  "columnHeadingsList": [
+    {
+      "col": 1,
+      "colSpan": 1,
+      "headingText": "",
+      "row": 1,
+      "rowSpan": 1,
+      "isFocal": true
+    },
+    {
+      "col": 2,
+      "colSpan": 1,
+      "headingText": "",
+      "row": 1,
+      "rowSpan": 1,
+      "isFocal": true
+    },
+    {
+      "col": 3,
+      "colSpan": 4,
+      "headingText": "No",
+      "row": 1,
+      "rowSpan": 1,
+      "isFocal": false
+    },
+    {
+      "col": 7,
+      "colSpan": 4,
+      "headingText": "Yes",
+      "row": 1,
+      "rowSpan": 1,
+      "isFocal": false
+    },
+    {
+      "col": 11,
+      "colSpan": 4,
+      "headingText": "Missing",
+      "row": 1,
+      "rowSpan": 1,
+      "isFocal": false
+    },
+    {
+      "col": 1,
+      "colSpan": 1,
+      "headingText": "Year",
+      "row": 2,
+      "rowSpan": 1,
+      "isFocal": false,
+      "fieldRef": "colRef1"
+    },
+    {
+      "col": 2,
+      "colSpan": 1,
+      "headingText": "Jurisdiction",
+      "row": 2,
+      "rowSpan": 1,
+      "isFocal": false,
+      "fieldRef": "colRef2"
+    },
+    {
+      "col": 3,
+      "colSpan": 1,
+      "headingText": "Average",
+      "row": 2,
+      "rowSpan": 1,
+      "isFocal": false,
+      "fieldRef": "colRef3"
+    },
+    {
+      "col": 4,
+      "colSpan": 1,
+      "headingText": "Standard Error",
+      "row": 2,
+      "rowSpan": 1,
+      "isFocal": false,
+      "fieldRef": "colRef4"
+    },
+    {
+      "col": 5,
+      "colSpan": 1,
+      "headingText": "Percentage",
+      "row": 2,
+      "rowSpan": 1,
+      "isFocal": false,
+      "fieldRef": "colRef5"
+    },
+    {
+      "col": 6,
+      "colSpan": 1,
+      "headingText": "Standard Error",
+      "row": 2,
+      "rowSpan": 1,
+      "isFocal": false,
+      "fieldRef": "colRef6"
+    },
+    {
+      "col": 7,
+      "colSpan": 1,
+      "headingText": "Average",
+      "row": 2,
+      "rowSpan": 1,
+      "isFocal": false,
+      "fieldRef": "colRef7"
+    },
+    {
+      "col": 8,
+      "colSpan": 1,
+      "headingText": "Standard Error",
+      "row": 2,
+      "rowSpan": 1,
+      "isFocal": false,
+      "fieldRef": "colRef8"
+    },
+    {
+      "col": 9,
+      "colSpan": 1,
+      "headingText": "Percentage",
+      "row": 2,
+      "rowSpan": 1,
+      "isFocal": false,
+      "fieldRef": "colRef9"
+    },
+    {
+      "col": 10,
+      "colSpan": 1,
+      "headingText": "Standard Error",
+      "row": 2,
+      "rowSpan": 1,
+      "isFocal": false,
+      "fieldRef": "colRef10"
+    },
+    {
+      "col": 11,
+      "colSpan": 1,
+      "headingText": "Average",
+      "row": 2,
+      "rowSpan": 1,
+      "isFocal": false,
+      "fieldRef": "colRef11"
+    },
+    {
+      "col": 12,
+      "colSpan": 1,
+      "headingText": "Standard Error",
+      "row": 2,
+      "rowSpan": 1,
+      "isFocal": false,
+      "fieldRef": "colRef12"
+    },
+    {
+      "col": 13,
+      "colSpan": 1,
+      "headingText": "Percentage",
+      "row": 2,
+      "rowSpan": 1,
+      "isFocal": false,
+      "fieldRef": "colRef13"
+    },
+    {
+      "col": 14,
+      "colSpan": 1,
+      "headingText": "Standard Error",
+      "row": 2,
+      "rowSpan": 1,
+      "isFocal": false,
+      "fieldRef": "colRef14"
+    }
+  ],
+  "tabularDataList": [
+    [
+      {
+        "fieldRef": "colRef1",
+        "value": "2019",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef2",
+        "value": "National",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef3",
+        "value": "525.80",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef4",
+        "value": "(4.722)",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef5",
+        "value": "94",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef6",
+        "value": "(1.1)",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef7",
+        "value": "479.65",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef8",
+        "value": "(7.846)",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef9",
+        "value": "6",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef10",
+        "value": "(1.1)",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef11",
+        "value": "\u2021",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef12",
+        "value": "\u2020",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef13",
+        "value": "#",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef14",
+        "value": "\u2020",
+        "isFocal": false
+      }
+    ],
+    [
+      {
+        "fieldRef": "colRef1",
+        "value": "2009",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef2",
+        "value": "National",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef3",
+        "value": "483.46",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef4",
+        "value": "(10.874)",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef5",
+        "value": "97",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef6",
+        "value": "(1)",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef7",
+        "value": "\u2021",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef8",
+        "value": "\u2020",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef9",
+        "value": "3",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef10",
+        "value": "(1)",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef11",
+        "value": "\u2021",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef12",
+        "value": "\u2020",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef13",
+        "value": "#",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef14",
+        "value": "\u2020",
+        "isFocal": false
+      }
+    ],
+    [
+      {
+        "fieldRef": "colRef1",
+        "value": "2000",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef2",
+        "value": "National",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef3",
+        "value": "526.18",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef4",
+        "value": "(5.948)",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef5",
+        "value": "93",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef6",
+        "value": "(1.7)",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef7",
+        "value": "502.12",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef8",
+        "value": "(26.560)",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef9",
+        "value": "7",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef10",
+        "value": "(1.7)",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef11",
+        "value": "\u2021",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef12",
+        "value": "\u2020",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef13",
+        "value": "#",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef14",
+        "value": "\u2020",
+        "isFocal": false
+      }
+    ],
+    [
+      {
+        "fieldRef": "colRef1",
+        "value": "1990",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef2",
+        "value": "National",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef3",
+        "value": "439.34",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef4",
+        "value": "(5.965)",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef5",
+        "value": "94",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef6",
+        "value": "(1.2)",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef7",
+        "value": "390.71",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef8",
+        "value": "(11.254)",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef9",
+        "value": "6",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef10",
+        "value": "(1.2)",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef11",
+        "value": "\u2021",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef12",
+        "value": "\u2020",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef13",
+        "value": "#",
+        "isFocal": false
+      },
+      {
+        "fieldRef": "colRef14",
+        "value": "\u2020",
+        "isFocal": false
+      }
+    ]
+  ],
+  "footnotes": {
+    "1": "\u2020 Not applicable.",
+    "2": "# Rounds to zero.",
+    "3": "\u2021 Reporting standards not met.",
+    "4": "NOTE: Some apparent differences between estimates may not be statistically significant.",
+    "5": "SOURCE: U.S. Department of Education, Institute of Education Sciences, National Center for Education Statistics, National Assessment of Educational Progress (NAEP), 1990, 2000, 2009, and 2019 High School Transcript Study (HSTS)."
+  },
+  "title": [
+    "Averages and percentages for grade 12 SAT Verbal score, by Earned at least 1 credit in architecture and construction courses? (SCED) [ACOC1] and jurisdiction: 2019, 2009, 2000, and 1990"
+  ],
+  "hasData": true,
+  "dataSource": "NDECACHINGSERVICE_DB"
+}
